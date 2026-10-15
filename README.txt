@@ -1,9 +1,7 @@
-JONES VAULT v7 — Execute the Blueprint
+JONES VAULT v10 — Object Studies Edition
 
-1. Extract the entire ZIP.
-2. Open the extracted jones-vault-v7 folder.
-3. Double-click index.html.
+Extract the entire ZIP, then open index.html in a modern browser.
 
-Changes: homepage tagline; MAJ Studios LLC described as Mekleet's event planning and production; abstract New York map retained.
+Three refreshed illustrations: property game pieces (Gorsha), abstract ceramic (MAJ), and library (Sansbox).
 
-Local prototype: browser-local data only. No authentication, shared database or live market feeds. Do not store sensitive personal or financial documents. Keep antivirus protections enabled.
+This is an offline local prototype; browser storage is device-specific, not encrypted or shared. No authentication, live market feed or cloud backup. Avoid storing sensitive personal/financial documents.

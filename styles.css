@@ -29,3 +29,6 @@
 
 /* v7: hero headline remains readable on compact screens */
 .hero-copy{max-width:72%}.hero h3{font-size:clamp(26px,3.5vw,45px);line-height:1.16}@media(max-width:700px){.hero-copy{max-width:100%}}
+
+/* V8 / refined draftsman studies, all native vector over blue grid */
+.draft-gallery{margin:20px 0 24px}.draft-gallery-heading{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:13px}.draft-gallery-heading h3{font-size:21px;margin:6px 0 0}.draft-gallery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.draft-study{padding:0;overflow:hidden;background:#071d31;border:1px solid #42647a;border-radius:8px}.draft-study img{display:block;width:100%;height:auto;aspect-ratio:640/300;object-fit:cover;border-bottom:1px solid #31556e}.draft-study-info{padding:13px 15px 16px}.draft-study-info small{font-size:9px;letter-spacing:.15em;color:#8bbad5}.draft-study-info h4{font-size:15px;margin:7px 0 3px}.draft-study-info p{font-size:11px;color:#a6c4d7;margin:0}.draft-gallery-heading .tag{font-size:9px}@media(max-width:850px){.draft-gallery-grid{grid-template-columns:1fr}.draft-study img{max-height:250px}.draft-gallery-heading{align-items:start;flex-wrap:wrap}}
